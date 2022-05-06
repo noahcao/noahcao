@@ -13,14 +13,14 @@
 <tbody>
   <tr>
     <td width="16%">
-        <a href="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg"><img alt="Jinkun Cao" src="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg" height="180"></a>
+        <a href="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg"><img alt="Jinkun Cao" src="http://www.jinkuncao.com/static/img/photonew.bc798d3.jpg" width="100%"></a>
     </td>
     <td>
     <p> 
         I am Jinkun Cao (曹金坤), a Robotics PhD student in Carnegie Mellon University. I study computer vision and robotics topics. I received my bachelor degree from Shanghai Jiao Tong University in 2020.
     </p>
     </td>
-    <td width="45%" padding="0">
+    <td width="50%" padding="0">
         <p align="middle" width="100%" padding="0"> <img src="https://github-readme-stats.vercel.app/api?username=noahcao&show_icons=true&include_all_commits=true&theme=vue&count_private=true" alt="noahcao" /> </p>
     </td>
    </tr>
