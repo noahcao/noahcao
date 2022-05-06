@@ -1,5 +1,4 @@
 <p> 
-  <a href="https://github.com/noahcao?tab=followers"> <img src="https://img.shields.io/github/followers/noahcao?style=plastic" height="25px" alt="github follow" /> </a>
   <a href="http://www.jinkuncao.com"> <img src="https://img.shields.io/badge/My-Homepage-success" height="25px" alt="Jinkun Cao">
   <a href="https://scholar.google.com/citations?hl=en&user=xDtTbmQAAAAJ"><img src="https://img.shields.io/badge/scholar-4385FE.svg?&style=plastic&logo=google-scholar&logoColor=white" alt="Google Scholar" height="25px"> </a>
   <a href="https://www.linkedin.com/in/jinkun-cao-09470b105/"><img src="https://img.shields.io/badge/linkedin-006CAC.svg?&style=plastic&logo=linkedin&logoColor=white" height="25px" alt="LinkedIn"> </a>
